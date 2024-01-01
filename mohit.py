@@ -18,3 +18,32 @@ a1 = Hello(2,4,6)
 # a1.__c = 8
 a1.setvalues(10)
 a1.getvalues()
+
+
+
+
+
+
+
+
+
+def HelloWorld(str):
+    print(str)
+
+HelloWorld("print")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
