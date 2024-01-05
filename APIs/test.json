@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Mohit Prajapat",
+    "age": 22,
+    "Salary": 4000
+  },
+  {
+    "name": "Veena",
+    "age": 32,
+    "Salary": 2000
+  },
+  {
+    "name": "Yatish",
+    "age": 27,
+    "Salary": 8000
+  },
+  {
+    "name": "Yash",
+    "age": 23,
+    "Salary": 6000
+  },
+  {
+    "name": "Parth",
+    "age": 25,
+    "Salary": 7000
+  }
+]
